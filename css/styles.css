@@ -188,7 +188,8 @@ nav h1 a {
 #restaurants-list li {
   border-bottom: 2px solid purple;
   font-family: Arial,sans-serif;
-  margin: 1px;
+  /*margin: 1px;*/
+  margin: 1px 1px 1px -46px;
   min-height: 280px;
   padding: 0 30px 25px;
   text-align: center;
@@ -356,13 +357,18 @@ nav h1 a {
 
 /* ====================== Media Queries ====================== */
 
+@media only screen and (min-width: 482px) {
+
+  #restaurants-list li {
+    margin: 1px;
+  }
+}
+
 @media only screen and (min-width: 689px) {
 
   #restaurants-list li {
     border-bottom: none;
   }
-
-
 }
 
 @media only screen and (min-width: 1010px ) {

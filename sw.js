@@ -62,7 +62,7 @@ self.addEventListener('fetch', function(event) {
     }));
   });
 
-
+// Referenced: https://developers.google.com/web/fundamentals/primers/service-workers/
 
 
 

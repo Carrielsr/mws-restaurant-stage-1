@@ -4,6 +4,7 @@
     "name": "Mission Chinese Food",
     "neighborhood": "Manhattan",
     "photograph": "1.jpg",
+    "alt": "A dining room full of seated diners, with booths to the side and tables in the middle. The focus of the decorating appears to be a variety of different understated light fixtures, both on the ceiling and above each booth",
     "address": "171 E Broadway, New York, NY 10002",
     "latlng": {
       "lat": 40.713829,
@@ -43,6 +44,7 @@
     "name": "Emily",
     "neighborhood": "Brooklyn",
     "photograph": "2.jpg",
+    "alt": "A simple hand-tossed, wood-oven fired, cheese pizza.",
     "address": "919 Fulton St, Brooklyn, NY 11238",
     "latlng": {
       "lat": 40.683555,
@@ -82,6 +84,7 @@
     "name": "Kang Ho Dong Baekjeong",
     "neighborhood": "Manhattan",
     "photograph": "3.jpg",
+    "alt": "Stainless steel and wood dining room, with tables featuring table-top grills.",
     "address": "1 E 32nd St, New York, NY 10016",
     "latlng": {
       "lat": 40.747143,
@@ -121,6 +124,7 @@
     "name": "Katz's Delicatessen",
     "neighborhood": "Manhattan",
     "photograph": "4.jpg",
+    "alt": "Exterior of Katz's Deli, featuring the corner entry and the neon signs.",
     "address": "205 E Houston St, New York, NY 10002",
     "latlng": {
       "lat": 40.722216,
@@ -160,6 +164,7 @@
     "name": "Roberta's Pizza",
     "neighborhood": "Brooklyn",
     "photograph": "5.jpg",
+    "alt": "Busy dining area, with a brick pick-up counter.",
     "address": "261 Moore St, Brooklyn, NY 11206",
     "latlng": {
       "lat": 40.705089,
@@ -199,6 +204,7 @@
     "name": "Hometown BBQ",
     "neighborhood": "Brooklyn",
     "photograph": "6.jpg",
+    "alt": "Rustic Americana themed dining room.",
     "address": "454 Van Brunt St, Brooklyn, NY 11231",
     "latlng": {
       "lat": 40.674925,
@@ -238,6 +244,7 @@
     "name": "Superiority Burger",
     "neighborhood": "Manhattan",
     "photograph": "7.jpg",
+    "alt": "Two men walking a dog in front of the SUPE RIORITY BU RGER storefront.",
     "address": "430 E 9th St, New York, NY 10009",
     "latlng": {
       "lat": 40.727397,
@@ -277,6 +284,7 @@
     "name": "The Dutch",
     "neighborhood": "Manhattan",
     "photograph": "8.jpg",
+    "alt": "Restaurant exterior showing the Dutch sign and the door awning below it. A tree with white blossoms is to the right and a light red brick building is in the background.",
     "address": "131 Sullivan St, New York, NY 10012",
     "latlng": {
       "lat": 40.726584,
@@ -316,6 +324,7 @@
     "name": "Mu Ramen",
     "neighborhood": "Queens",
     "photograph": "9.jpg",
+    "alt": "Black and white photo, showing one diner on her phone, while the other diners eat with their chopsticks. Restaurant employees are busy in the background",
     "address": "1209 Jackson Ave, Queens, NY 11101",
     "latlng": {
       "lat": 40.743797,
@@ -355,6 +364,7 @@
     "name": "Casa Enrique",
     "neighborhood": "Queens",
     "photograph": "10.jpg",
+    "alt": "Stainless steel counter, with white stools. White tables and chairs line the dining room",
     "address": "5-48 49th Ave, Queens, NY 11101",
     "latlng": {
       "lat": 40.743394,

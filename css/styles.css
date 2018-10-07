@@ -204,7 +204,7 @@ nav h1 a {
   height: 180px;
 }
 
-#restaurants-list li h1 {
+#restaurants-list li h2 {
   color: purple;
   font-family: Arial,sans-serif;
   font-weight: bold;

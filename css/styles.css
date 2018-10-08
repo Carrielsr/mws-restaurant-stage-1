@@ -188,7 +188,6 @@ nav h1 a {
 #restaurants-list li {
   border-bottom: 2px solid purple;
   font-family: Arial,sans-serif;
-  /*margin: 1px;*/
   margin: 1px 1px 1px -46px;
   min-height: 280px;
   padding: 0 30px 25px;
@@ -258,14 +257,14 @@ nav h1 a {
   width: 100%;
   background-color: #ccc;
   display: flex;
-
 }
 
 .inside #footer {
   bottom: 0;
-  position: fixed;
-  width: 100%;
+  width: 100%; 
   background-color: black;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 #restaurant-name {
@@ -318,6 +317,8 @@ nav h1 a {
 #reviews-container {
   padding: 1em;
   margin: 0;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
 #reviews-container h3 {
@@ -403,11 +404,11 @@ nav h1 a {
     padding: 140px 40px 30px;
     /* Don't delete the margin, the page "breaks" without it! */
     margin: 0;
-
   }
 
   #reviews-container {
     padding: 30px 40px 40px;
+    box-sizing: content-box;
+    justify-content: center;
   }
-
 }

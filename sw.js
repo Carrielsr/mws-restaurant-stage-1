@@ -20,6 +20,7 @@ var urlCache = [
     '/img/10.jpg',
     '/js/dbhelper.js',
     '/js/main.js',
+    '/js/restaurant_info.js',
     '/index.html',
     '/restaurant.html'
 ];
